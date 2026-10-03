@@ -1,4 +1,4 @@
-- 👋 Hi, I’m sammanadh
+- 👋 Hi, I’m Samman
 - 👀 I’m am a Software Engineer
 - 🌱 I love building web/mobile projects
 - 📫 How to reach me at sammanadh@gmail.com
