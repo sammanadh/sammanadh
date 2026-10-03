@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sammanadh
-- 👀 I’m am a software engineer
-- 🌱 I’m currently working on web/mobile projects
+- 👋 Hi, I’m sammanadh
+- 👀 I’m am a Software Engineer
+- 🌱 I love building web/mobile projects
 - 📫 How to reach me at sammanadh@gmail.com
 
 <!---
